@@ -1,7 +1,6 @@
-Product Requirements
 MLAT
-8/7/2024 Quynh Chi - last update: 8/82024
-Introduction:
+8/7/2024 Quynh Chi - last update: 8/8/2024
+#Introduction:
 A digital flashcard software on .NET that uses ML (OCR) to recognize image to word. It is a language learning tool for the immersion phase (reading comic, novel, watching film w English subtitles)
 Goal and scope:
 Goal	Build a program that is usable (technical), practical (UX) and also supports other units in school
