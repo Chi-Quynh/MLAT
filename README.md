@@ -22,8 +22,7 @@ o	The program should be able to ran on MacOS, Windows
 o	Security: ensures data are stored securely
 o	Accessibility: the interface should be clear to see for people with disability (color blindness)
 Performance: Loads times to exceed only 2 seconds
-## Estimated time:
-One semester from start of Sep HE sem to start of Jan HE sem
+
 ## Timeline: Agile-based workflow
 |Phase | Action item |
 |-----:|---------------|
