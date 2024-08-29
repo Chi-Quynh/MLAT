@@ -3,6 +3,7 @@
 ## Introduction:
 A digital flashcard software that helps users learn language and create new flashcards using machine learning (OCR)
 
+|-----:|---------------|
 |Deliverable|Project that focuses on OCR Word Recognition and User Experience|
 |Developer Goal|Learn about machine learning, documentation, software architecture and database|
 |Scope|This project entails machine learning, .NET software development, SQL Database and documentation in a span of 3-4 months|
