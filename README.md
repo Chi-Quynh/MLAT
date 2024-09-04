@@ -1,5 +1,5 @@
 # MLAT
-8/7/2024 Quynh Chi - last update: 29/8/2024
+7/8/2024 Quynh Chi - last update: 29/8/2024
 ## Introduction:
 A digital flashcard software that helps users learn language and create new flashcards using machine learning (OCR)
 
